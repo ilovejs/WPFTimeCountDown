@@ -1,0 +1,27 @@
+c:\users\michaelz\documents\visual studio 2013\Projects\WPFCountDown\WPFCountDown\bin\Debug\WPFCountDown.exe.config
+C:\Users\MichaelZ\Documents\Visual Studio 2012\Projects\WPFCountDown\WPFCountDown\bin\Debug\WPFCountDown.exe.config
+C:\Users\MichaelZ\Documents\Visual Studio 2012\Projects\WPFCountDown\WPFCountDown\bin\Debug\WPFCountDown.exe
+C:\Users\MichaelZ\Documents\Visual Studio 2012\Projects\WPFCountDown\WPFCountDown\bin\Debug\WPFCountDown.pdb
+C:\Users\MichaelZ\Documents\Visual Studio 2012\Projects\WPFCountDown\WPFCountDown\obj\Debug\WPFCountDown.csprojResolveAssemblyReference.cache
+C:\Users\MichaelZ\Documents\Visual Studio 2012\Projects\WPFCountDown\WPFCountDown\obj\Debug\MainWindow.baml
+C:\Users\MichaelZ\Documents\Visual Studio 2012\Projects\WPFCountDown\WPFCountDown\obj\Debug\MainWindow.g.cs
+C:\Users\MichaelZ\Documents\Visual Studio 2012\Projects\WPFCountDown\WPFCountDown\obj\Debug\App.g.cs
+C:\Users\MichaelZ\Documents\Visual Studio 2012\Projects\WPFCountDown\WPFCountDown\obj\Debug\WPFCountDown_MarkupCompile.cache
+C:\Users\MichaelZ\Documents\Visual Studio 2012\Projects\WPFCountDown\WPFCountDown\obj\Debug\WPFCountDown.g.resources
+C:\Users\MichaelZ\Documents\Visual Studio 2012\Projects\WPFCountDown\WPFCountDown\obj\Debug\WPFCountDown.Properties.Resources.resources
+C:\Users\MichaelZ\Documents\Visual Studio 2012\Projects\WPFCountDown\WPFCountDown\obj\Debug\WPFCountDown.csproj.GenerateResource.Cache
+C:\Users\MichaelZ\Documents\Visual Studio 2012\Projects\WPFCountDown\WPFCountDown\obj\Debug\WPFCountDown.exe
+C:\Users\MichaelZ\Documents\Visual Studio 2012\Projects\WPFCountDown\WPFCountDown\obj\Debug\WPFCountDown.pdb
+C:\Users\MichaelZ\Dropbox\WPFCountDown\WPFCountDown\bin\Debug\WPFCountDown.exe.config
+C:\Users\MichaelZ\Dropbox\WPFCountDown\WPFCountDown\obj\Debug\WPFCountDown.exe
+C:\Users\MichaelZ\Dropbox\WPFCountDown\WPFCountDown\obj\Debug\WPFCountDown.pdb
+C:\Users\MichaelZ\Dropbox\WPFCountDown\WPFCountDown\bin\Debug\WPFCountDown.exe
+C:\Users\MichaelZ\Dropbox\WPFCountDown\WPFCountDown\bin\Debug\WPFCountDown.pdb
+C:\Users\MichaelZ\Dropbox\WPFCountDown\WPFCountDown\obj\Debug\WPFCountDown.csprojResolveAssemblyReference.cache
+C:\Users\MichaelZ\Dropbox\WPFCountDown\WPFCountDown\obj\Debug\MainWindow.baml
+C:\Users\MichaelZ\Dropbox\WPFCountDown\WPFCountDown\obj\Debug\MainWindow.g.cs
+C:\Users\MichaelZ\Dropbox\WPFCountDown\WPFCountDown\obj\Debug\App.g.cs
+C:\Users\MichaelZ\Dropbox\WPFCountDown\WPFCountDown\obj\Debug\WPFCountDown_MarkupCompile.cache
+C:\Users\MichaelZ\Dropbox\WPFCountDown\WPFCountDown\obj\Debug\WPFCountDown.g.resources
+C:\Users\MichaelZ\Dropbox\WPFCountDown\WPFCountDown\obj\Debug\WPFCountDown.Properties.Resources.resources
+C:\Users\MichaelZ\Dropbox\WPFCountDown\WPFCountDown\obj\Debug\WPFCountDown.csproj.GenerateResource.Cache

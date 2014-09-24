@@ -1,0 +1,17 @@
+﻿<Window x:Class="WPFCountDown.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="252" Width="220">
+    <Grid Margin="0,0,2,-20">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="4*"/>
+            <ColumnDefinition Width="17*"/>
+        </Grid.ColumnDefinitions>
+        <TextBox Name="inputBox" HorizontalAlignment="Left" Height="23" Margin="21,53,0,0" TextWrapping="Wrap" Text="3" VerticalAlignment="Top" Width="145" Grid.ColumnSpan="2"/>
+        <Label Content="Input Sleep Time (s):" HorizontalAlignment="Left" Margin="21,22,0,0" VerticalAlignment="Top" Width="120" Grid.ColumnSpan="2"/>
+        <Button Name="cdBtn" Content="Count Down" HorizontalAlignment="Left" Margin="51,159,0,0" VerticalAlignment="Top" Width="75" Grid.Column="1"/>
+        <Label Content="Time Remain:" HorizontalAlignment="Left" Margin="21,81,0,0" VerticalAlignment="Top" Width="120" Grid.ColumnSpan="2"/>
+        <TextBox Name="tbRemain" HorizontalAlignment="Left" Height="25" Margin="21,112,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="145" RenderTransformOrigin="0.5,-0.304" Grid.ColumnSpan="2" />
+
+    </Grid>
+</Window>
