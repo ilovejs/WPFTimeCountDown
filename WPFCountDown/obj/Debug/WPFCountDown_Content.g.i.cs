@@ -8,6 +8,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("countdown.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("tea.ico")]
 
 

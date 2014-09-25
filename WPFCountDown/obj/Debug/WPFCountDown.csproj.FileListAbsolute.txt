@@ -25,3 +25,6 @@ C:\Users\MichaelZ\Dropbox\WPFCountDown\WPFCountDown\obj\Debug\WPFCountDown_Marku
 C:\Users\MichaelZ\Dropbox\WPFCountDown\WPFCountDown\obj\Debug\WPFCountDown.g.resources
 C:\Users\MichaelZ\Dropbox\WPFCountDown\WPFCountDown\obj\Debug\WPFCountDown.Properties.Resources.resources
 C:\Users\MichaelZ\Dropbox\WPFCountDown\WPFCountDown\obj\Debug\WPFCountDown.csproj.GenerateResource.Cache
+C:\Users\MichaelZ\Dropbox\WPFCountDown\WPFCountDown\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+C:\Users\MichaelZ\Dropbox\WPFCountDown\WPFCountDown\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+C:\Users\MichaelZ\Dropbox\WPFCountDown\WPFCountDown\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
