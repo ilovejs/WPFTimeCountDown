@@ -1,7 +1,18 @@
-WPFTimeCountDown
+Count Down / Tea Time Management
 ================
 
 WPF Gui app to notifiy tea time !!
+
+Install
+===========
+Run setup.exe under "TeaTime Deployment" foler
+
+OR
+
+Portable file
+==========
+Copy all the file into your own foler from "Tea Time Executable File" foler
+Run the exe file.
 
 Main window
 =============
